@@ -1,0 +1,28 @@
+<resources>
+    <string name="Inches" translatable="false">Inches</string>
+    <string name="Yards" translatable="false">Yards</string>
+    <string name="Feet" translatable="false">Feet</string>
+    <string name="Miles" translatable="false">Miles</string>
+    <string name="Yottam" translatable="false">Yottametres</string>
+    <string name="Zettam" translatable="false">Zettametres</string>
+    <string name="Exam" translatable="false">Exametres</string>
+    <string name="Petam" translatable="false">Petametres</string>
+    <string name="Teram" translatable="false">Terametres</string>
+    <string name="Gigam" translatable="false">Gigametres</string>
+    <string name="Megam" translatable="false">Megametres</string>
+    <string name="Kilom" translatable="false">Kilometres</string>
+    <string name="Hectom" translatable="false">Hectometres</string>
+    <string name="Decam" translatable="false">Decametres</string>
+    <string name="Metres" translatable="false">Metres</string>
+    <string name="Decim" translatable="false">Decimetres</string>
+    <string name="Centim" translatable="false">Centimentres</string>
+    <string name="Millim" translatable="false">Millimetres</string>
+    <string name="Microm" translatable="false">Micrometres</string>
+    <string name="Nanom" translatable="false">Nanometres</string>
+    <string name="Picom" translatable="false">Picometres</string>
+    <string name="Femtom" translatable="false">Femtometres</string>
+    <string name="Attom" translatable="false">Attometres</string>
+    <string name="Zeptom" translatable="false">Zeptometres</string>
+    <string name="Yoctom" translatable="false">Yoctometres</string>
+
+</resources>
